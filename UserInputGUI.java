@@ -62,7 +62,7 @@ public class UserInputGUI {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JLabel lblM = new JLabel("Birth Month:");
+		JLabel lblM = new JLabel("Astrological Sign:");
 		lblM.setBounds(6, 27, 86, 16);
 		frame.getContentPane().add(lblM);
 		
